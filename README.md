@@ -14,6 +14,6 @@ A simple budget tracking app that helps you list your income and expenses, and m
 
 ## 🚀 Get started
 
-https://budjos.github.io/TaskFlow/
+https://budjos.github.io/TaskFloXw/X
 
 
